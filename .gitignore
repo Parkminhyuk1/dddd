@@ -1,0 +1,11 @@
+node_modules/
+dist/
+debug/
+pnpm-lock.yaml
+yarn.lock
+package-lock.json
+test.js
+config.js
+./config.js
+.eslintrc.js
+tags.txt
